@@ -1,0 +1,71 @@
+#winner{
+    width:40%;
+    height: 40px;
+    border: 1px solid transparent;
+    border-radius: 10px;;
+    margin: auto;
+    text-align: center;
+    background-color:aqua;
+    font-size: 30px;
+    
+}
+#member-1{
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-top: 20px;
+    display:grid;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    align-content: center;            
+    
+}
+#member-2{
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-top: 20px;
+    display:grid;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    align-content: center;            
+    
+}
+#member-3{
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-top: 20px;
+    display:grid;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    align-content: center;            
+    
+}
+#member-1>p{
+    display: flex;
+    text-align: center;
+}
+#roll{
+    margin: auto;
+    width:20%;
+    height: auto;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 20px;
+    display: grid;
+    text-align: center;
+    font-size: 30px;
+    background-color: darkkhaki;
+
+}
